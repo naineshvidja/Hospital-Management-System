@@ -1,5 +1,5 @@
 # Hospital-Management-System
-A hotel management system which is designed to perform tasks like collection of patient data, computation of fees and states doctor details. 
+A hospital management system which is designed to perform tasks like collection of patient data, computation of fees and states doctor details. 
 Code Breakdown :
 
 a) The structure function manages patient information such as name, sex, and blood group, organizing them into a linked list across all functions.
